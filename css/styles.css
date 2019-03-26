@@ -38,6 +38,78 @@ body {
   opacity: .9;
 }
 
+.popup-container2 {
+  position: absolute;
+  z-index: 1000;
+  border: 2px solid green;
+  height: 100%;
+  width: 100%;
+  display: none;
+  background-color: #d81e5b;
+  opacity: .9;
+}
+.popup-container3 {
+  position: absolute;
+  z-index: 1000;
+  border: 2px solid green;
+  height: 100%;
+  width: 100%;
+  display: none;
+  background-color: #d81e5b;
+  opacity: .9;
+}
+.popup-container4 {
+  position: absolute;
+  z-index: 1000;
+  border: 2px solid green;
+  height: 100%;
+  width: 100%;
+  display: none;
+  background-color: #d81e5b;
+  opacity: .9;
+}
+.popup-container5 {
+  position: absolute;
+  z-index: 1000;
+  border: 2px solid green;
+  height: 100%;
+  width: 100%;
+  display: none;
+  background-color: #d81e5b;
+  opacity: .9;
+}
+.popup-container6 {
+  position: absolute;
+  z-index: 1000;
+  border: 2px solid green;
+  height: 100%;
+  width: 100%;
+  display: none;
+  background-color: #d81e5b;
+  opacity: .9;
+}
+.popup-container7 {
+  position: absolute;
+  z-index: 1000;
+  border: 2px solid green;
+  height: 100%;
+  width: 100%;
+  display: none;
+  background-color: #d81e5b;
+  opacity: .9;
+}
+.popup-container8 {
+  position: absolute;
+  z-index: 1000;
+  border: 2px solid green;
+  height: 100%;
+  width: 100%;
+  display: none;
+  background-color: #d81e5b;
+  opacity: .9;
+}
+
+
 .close {
   color: white;
   border: .1rem solid white;
