@@ -1,3 +1,9 @@
-$(".card").click(function(){
-  $(".btn-popup").addClass("btn-popup1");
+$(function(){
+  $(".btn").click(function(){
+    $(".popup-container").toggle("btn-popup1");
+  });
+  $(".popup-text").click(function(){
+    $(".popup-container").toggle("btn-popup1");
+  });
+
 });

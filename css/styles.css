@@ -2,9 +2,18 @@ html {
   font-size: 85%;
 
 }
+
+body {
+  background-color: #c6d8b3;
+}
+
+.bg-test{
+  background-color: orangered;
+}
 .card {
   display: flex;
   margin: 1rem auto;
+  background-color: #fdf0d5
 
 }
 
@@ -12,7 +21,26 @@ html {
 .btn-popup1{
   margin: 1rem;
   padding: 0 1rem;
-  max-width: 60%;
+  max-width: 100%;
   border: .2rem solid #444;
   background: white;
+  display: none;
+}
+
+.popup-container {
+  position: absolute;
+  z-index: 1000;
+  border: 2px solid green;
+  height: 100%;
+  width: 100%;
+  display: none;
+  background-color: #d81e5b;
+  opacity: .9;
+}
+
+.close {
+  color: white;
+  border: .1rem solid white;
+  margin: 0 auto;
+  right: 3rem;
 }
