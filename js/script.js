@@ -65,7 +65,7 @@ $(function(){
 
   $(".popup-text8").click(function(){
     $(".popup-container8").toggle("btn-popup1");
-  });5
+  });
 
 
 });
