@@ -1,0 +1,18 @@
+html {
+  font-size: 85%;
+
+}
+.card {
+  display: flex;
+  margin: 1rem auto;
+
+}
+
+
+.btn-popup1{
+  margin: 1rem;
+  padding: 0 1rem;
+  max-width: 60%;
+  border: .2rem solid #444;
+  background: white;
+}
